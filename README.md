@@ -12,5 +12,5 @@
 ### LearningTasks  
 Решение учебных задач с использованием теории по Java Core
   
-## SmartCalculator  
+### SmartCalculator  
 Целочисленный калькулятор учитывающий порядок действий  
